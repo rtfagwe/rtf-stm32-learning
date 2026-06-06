@@ -1,5 +1,12 @@
-# Object file
+Debug/
 *.o
+*.elf
+*.hex
+*.bin
 
-# Ada Library Information
-*.ali
+*.launch
+.cproject
+.project
+
+*.swp
+*.bak
